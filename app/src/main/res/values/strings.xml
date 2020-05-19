@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Ocabona</string>
+    <string name="tombol1">Submit</string>
+    <string name="txtnama">Full Name</string>
+    <string name="txtemail">Email</string>
+    <string name="txtpassword">Password</string>
+    <string name="txtkonfpassword">Password</string>
+    <string name="txtnis">NIS</string>
+    <string name="judul">Isi data berikut</string>
+    <string name="tgllahir">Isi Tgl Lahir</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="time">Waktu: </string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">Tgl lahir: </string>
+    <string-array name="kota">
+        <item>Purwokerto</item>
+        <item>Purbalingga</item>
+        <item>Banjarnegara</item>
+        <item>Cilacap</item>
+        <item>Kebumen</item>
+        <item>Purworejo</item>
+        <item>Magelang</item>
+        <item>Tegal</item>
+        <item>Brebes</item>
+        <item>Pekalongan</item>
+        <item>Pemalang</item>
+        <item>Wonosobo</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_full_name">Menu Pilihan</string>
+
+    <string name="daftar_menu">Daftar Menu</string>
+    <string name="kategori">Kategori</string>
+    <string name="pesan_makanan">Pesan Makanan</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+</resources>
